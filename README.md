@@ -23,7 +23,7 @@
 |仮想化|VMware|中〜大規模向けの設計〜環境構築が可能|
 |DB|MySQL、PostgreSQLなど|インストール〜テーブル作成、簡単な設定まで可能|
 |監視|Zabbix、Nagiosなど|要件に応じた設計〜構築まで可能|
-|パブリッククラウド|AWS、OracleCloud|要件に応じた設計〜構築まで可能|
+|パブリッククラウド|AWS、Azure、OracleCloud|要件に応じた設計〜構築まで可能|
 |クラウドネイティブ|Docker、Kubernetes|要件に応じた設計〜構築まで可能|
 |CI/CD|GitHub Actions、AWS CodePipelineなど|要件に応じた設計〜構築まで可能|
 |IaC|Terraform、CloudFormationなど|要件に応じた設計〜構築まで可能|
